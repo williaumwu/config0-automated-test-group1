@@ -1,5 +1,5 @@
 desc: Automated-test execgroup that runs terraform via the group0 resource_wrapper script (cross-repo execgroup fixture)
-release: 0.1.0
+release: 0.2.0
 author: williaumwu <williaumwu@users.noreply.github.com>
 license: GPL-3.0
 categories:
